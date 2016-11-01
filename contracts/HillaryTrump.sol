@@ -1,3 +1,5 @@
+pragma solidity ^0.4.2;
+
 contract HillaryTrump {
   address public oracle;
   address public trumpBetter;
